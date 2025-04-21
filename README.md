@@ -1,4 +1,4 @@
-# vision model practice home repository
+# Vision Model Practice Home Repository
 - https://github.com/hyunwook990/vision_model_practice.git
 # VGG 정리(Notion)
 https://skitter-airport-cf1.notion.site/ResNet-1b708a64f175810f8fa0c97de4969b16
